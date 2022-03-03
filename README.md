@@ -37,7 +37,7 @@
                
 ## 𝘿𝙀𝙋𝙇𝙊𝙔  🚀
 
-[![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/SRIDHAR2021SIDDHARTH/TANDAV_X_BOT)
+[![Deploy](https://telegra.ph/file/553778b6e1e9866c6bf36.jpg)](https://heroku.com/deploy?template=https://github.com/Sherlykuttt/TANDAV_X_BOT)
 
 ------------------------------------------------
 ## 𝚁𝙴𝙿𝙻 :
